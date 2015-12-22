@@ -1,8 +1,8 @@
 # EMIS-Implementation
-Worldpay Streamline Reconcilation Files Implementation
+Worldpay Streamline Reconciliation Files Implementation
 
 ## How to use
-- Obtain the Transaction Reconcilation File from the MFG Server, File name on server: `\Outgoing\MA.PISCESSW.#M.RECON.nnnn.Dddmmyy`
+- Obtain the Transaction Reconciliation File from the MFG Server, File name on server: `\Outgoing\MA.PISCESSW.#M.RECON.nnnn.Dddmmyy`
 - Type `python EMIS_Process.py [MA.PISCESSW.#M.RECON.nnnn.Dddmmyy]` on Command Line Interface
 
 ## Input and Output
